@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تحويل عملات</string>
+    <string name="main_et_from">من</string>
+    <string name="main_et_to">إلى</string>
+    <string name="progress_dialog_message">برجاء الانتظار ...</string>
+    <string name="alert_dialog_title">خطأ بالإنترنت</string>
+    <string name="alert_dialog_message">يرجى التحقق من اتصالك بالإنترنت</string>
+    <string name="alert_dialog_button">حسناً</string>
+    <string name="main_btn_refresh">تحديث</string>
+</resources>
