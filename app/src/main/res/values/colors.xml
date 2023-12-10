@@ -12,4 +12,9 @@
     <color name="main_user_input_color">#F1EFEF</color>
     <color name="main_btn_renewal">#2C2CEA</color>
     <color name="main_tv_result">#ADABAB</color>
+    <color name="main_tv_base_color">#FF0000</color>
+    <color name="main_tv_target_color">#0000FF</color>
+    <color name="main_tv_other_target_color">#EA6868</color>
+    <color name="main_tv_result_color">#3B90B7</color>
+    <color name="main_btn_buy_color">#FC3C7D</color>
 </resources>
